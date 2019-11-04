@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<TITLE>Create A Repository</TITLE>
+</HEAD>
+hello guys
+<BODY>
+<img src="img/youcode.jpg" alt="YouCode">
+    <h3>description</h3>
+    <p>creation site web </p>
+  <h2>GROUPE DE L'ANNEE<h2>
+  <h4>Membres du groupe<h4>
+<ul>
+  <li>abdelhamid</li>
+  <li>anas</li>
+  <li>ghali</li>
+  <li>mustapha</li>
+  <li>naoufal</li>
+<li>youness</li>
+  <li>Merci de votre attention</li>
+<<<<<<< HEAD
+  <em>Naoufal Benmansour</em>
+=======
+  <em>znititititi</em>
+>>>>>>> d155de868bc442680ba4bdfd152d3bac67e98f12
+  </ul>
+</BODY>
+</HTML>
